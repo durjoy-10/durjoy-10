@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durjoy Das</h1>
-<h3 align="center">A Computer Science Engineer from `Barishal,Bangladesh`</h3>
+<h3 align="center">A Computer Science Engineer from Barishal,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy-10&label=Profile%20views&color=0e75b6&style=flat" alt="durjoy-10" /> </p>
 
