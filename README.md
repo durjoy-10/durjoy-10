@@ -12,9 +12,6 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
@@ -28,7 +25,8 @@
 <h2 align="center">About Me</h2>
 <ul>
   <li>🌟 Enthusiastic software developer with a knack for solving complex problems.</li>
-  <li>🔧 Skilled in <b>C</b>, <b>C++</b>, <b>Java</b>, <b>Python</b>, and <b>Django</b>.</li>
+  <li>🔧 Skilled in <b>C</b>, <b>C++</b>, <b>Java</b>, <b>Python</b>, and <b>Django</b> <img src="path-to-django-icon.png" alt="Django" style="width:16px; height:16px; vertical-align:middle;">.</li>
+
   <li>⚖️ Currently exploring the exciting world of <b>Cyber Security</b>.</li>
 </ul>
 
@@ -70,8 +68,6 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   📧 <a href="mailto:ug2102017@cse.pstu.ac.bd">ug2102017@cse.pstu.ac.bd</a><br />
-  🔍 <a href="https://linkedin.com/in/" target="_blank">LinkedIn Profile</a><br />
-  🎮 <a href="https://twitter.com/" target="_blank">Twitter Profile</a><br />
   💙 <a href="https://web.facebook.com/durjoy.das.58367116" target="_blank">Facebook Profile</a><br />
   🌟 <a href="https://www.instagram.com/?hl=en" target="_blank">Instagram Profile</a><br />
   🏆 <a href="https://codeforces.com/profile/Durjoy_16" target="_blank">Codeforces Profile</a><br />
