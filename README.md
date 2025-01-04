@@ -69,7 +69,11 @@
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  📧 <a href="mailto:your-email@example.com">your-email@example.com</a><br />
+  📧 <a href="mailto:ug2102017@cse.pstu.ac.bd">ug2102017@cse.pstu.ac.bd</a><br />
   🔍 <a href="https://linkedin.com/in/" target="_blank">LinkedIn Profile</a><br />
-  🎮 <a href="https://twitter.com/" target="_blank">Twitter Profile</a>
+  🎮 <a href="https://twitter.com/" target="_blank">Twitter Profile</a><br />
+  💙 <a href="https://web.facebook.com/durjoy.das.58367116" target="_blank">Facebook Profile</a><br />
+  🌟 <a href="https://www.instagram.com/?hl=en" target="_blank">Instagram Profile</a><br />
+  🏆 <a href="https://codeforces.com/profile/Durjoy_16" target="_blank">Codeforces Profile</a><br />
+  📞 WhatsApp: 01797373835
 </p>
