@@ -46,8 +46,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/imgres?q=django%20svg%20logo&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F353657%2Fdjango-icon.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353657%2Fdjango-icon&docid=5PquRjLTfaMEzM&tbnid=T0wTWBwRlkTXQM&vet=12ahUKEwj9kqvWwduKAxWyxzgGHdsPKKQQM3oECGMQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwj9kqvWwduKAxWyxzgGHdsPKKQQM3oECGMQAA" alt="Django" width="50" height="50" />
-  </a>
+    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="50" height="50" />
+</a>
+
   <a href="https://kali.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="50" height="50" />
   </a>
