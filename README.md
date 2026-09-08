@@ -1,75 +1,62 @@
-<h1 align="center">Hi there! 👋 I'm Durjoy Das</h1>
-<h3 align="center">A Passionate Computer Science Engineer from Barishal, Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Durjoy Das</h1>
+
+<h3 align="center">
+  CSE Student • Cyber Security Enthusiast • Software Developer • Researcher
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durjoy-10&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=durjoy-10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=durjoy-10&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/durjoy-10" target="_blank">
-    <img src="https://img.shields.io/github/followers/durjoy-10?label=Follow&style=for-the-badge&color=green" alt="GitHub Badge" />
-  </a>
-</div>
-
----
-
-<h2 align="center">About Me</h2>
-<ul>
-  <li>🌟 Enthusiastic software developer with a knack for solving complex problems.</li>
-  <li>🔧 Skilled in <b>C</b>, <b>C++</b>, <b>Java</b>, <b>Python</b>, and <b>Django</b>.</li> 
-  <li>⚖️ Currently exploring the exciting world of <b>Cyber Security</b>.</li>
-</ul>
-
----
-
-<h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <a href="https://github.com/durjoy-10">
+    <img src="https://img.shields.io/github/followers/durjoy-10?label=Followers&style=for-the-badge&color=0e75b6" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="50" height="50" />
-</a>
-
-  <a href="https://kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="50" height="50" />
+  <a href="https://github.com/durjoy-10?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durjoy-10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoy-10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durjoy-10&theme=tokyonight" alt="GitHub Streak" />
-</div>
+## 🧑‍💻 About Me
+
+I'm a **Computer Science & Engineering student at Patuakhali Science and Technology University (PSTU)** with a strong interest in **Cyber Security, Network Security, Software Development, and Machine Learning**.
+
+- 🔐 Exploring **Cyber Security & Network Security**
+- 🛡️ Working on **Intrusion Detection & Dynamic Firewall Systems**
+- 🧠 Interested in **Machine Learning / Deep Learning for Security**
+- 💻 Practicing **Binary Exploitation & CTFs**
+- 🌐 Building applications with **Python, Django & REST APIs**
+- 🐧 Daily Linux user and security lab enthusiast
+- 🔬 Interested in **Cyber Security Research & Academic Publishing**
+- 🚀 Always learning, building, breaking, and improving
 
 ---
 
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  📧 <a href="mailto:ug2102017@cse.pstu.ac.bd">ug2102017@cse.pstu.ac.bd</a><br />
-  💙 <a href="https://web.facebook.com/durjoy.das.58367116" target="_blank">Facebook Profile</a><br />
-  🌟 <a href="https://www.instagram.com/?hl=en" target="_blank">Instagram Profile</a><br />
-  🏆 <a href="https://codeforces.com/profile/Durjoy_16" target="_blank">Codeforces Profile</a><br />
-  📞 WhatsApp: 01797373835
-</p>
+## 🔥 Current Focus
+
+```text
+Cyber Security
+├── Network Security
+├── Intrusion Detection Systems
+├── Dynamic Firewall
+├── Linux Security
+├── Web Security
+├── Binary Exploitation
+└── CTF Practice
+
+Research
+├── Machine Learning for Security
+├── Deep Learning
+├── Network Intrusion Detection
+├── CSE-CIC-IDS2018
+└── Security Automation
+
+Development
+├── Python
+├── Django / DRF
+├── REST APIs
+├── PostgreSQL
+└── Docker
+```
